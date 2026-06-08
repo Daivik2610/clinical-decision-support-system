@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Decision-Support System (CDSS)",
+  "description": "A healthcare software solution designed to assist medical staff in evaluating patient health risks using rule-based scoring and prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
